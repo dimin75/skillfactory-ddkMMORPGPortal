@@ -1,0 +1,15 @@
+------------------------------------
+Зарегистрированные пользователи 
+портала и их данные (тестовые):
+------------------------------------
+user: user
+mail: dimatest24@yandex.ru
+pass: user24
+------------------------------------
+user: user2
+mail: kitchen.bear75@gmail.com
+pass: 2pass24pass24
+------------------------------------
+user: user3
+mail: dimkap@poi.dvo.ru
+pass: 3pass24pass24
